@@ -6,6 +6,9 @@
   "scripts": {
     "test": "npm run test"
   },
+  "bin": {
+    "react-add-sass": "bin/react-add-sass.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ianlancaster/react-extender.git"
@@ -23,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/ianlancaster/react-extender/issues"
   },
-  "homepage": "https://github.com/ianlancaster/react-extender#readme"
+  "homepage": "https://github.com/ianlancaster/react-extender#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "node-sass": "^4.5.3",
+    "readline": "^1.3.0"
+  }
 }
