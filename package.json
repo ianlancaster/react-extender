@@ -1,0 +1,27 @@
+{
+  "name": "react-extender",
+  "version": "1.0.0",
+  "description": "a command line tool for extending an ejected create-react-app with sass, redux, react router and more.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianlancaster/react-extender.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "router",
+    "redux",
+    "scss",
+    "sass"
+  ],
+  "author": "Ian Lancaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianlancaster/react-extender/issues"
+  },
+  "homepage": "https://github.com/ianlancaster/react-extender#readme"
+}
